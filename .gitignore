@@ -1,0 +1,51 @@
+# Local configuration and secrets
+/.env
+/.env.*
+!/.env.example
+
+# Local development history and Codex workspace data
+/history/
+/.agents/
+/.codex/
+
+# Python virtual environments and caches
+/.venv/
+/venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+/.pytest_cache/
+/.mypy_cache/
+/.ruff_cache/
+/.tox/
+/.nox/
+
+# Tests and coverage output
+/.coverage
+/.coverage.*
+/coverage.xml
+/htmlcov/
+
+# Local runtime data
+/data/
+*.db-wal
+*.db-shm
+*.db-journal
+*.log
+
+# Build artifacts
+/build/
+/dist/
+
+# IDE and operating-system files
+/.idea/
+/.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary editor and backup files
+*.bak
+*.tmp
+*.swp
+*.swo
+*~
