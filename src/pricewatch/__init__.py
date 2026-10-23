@@ -1,0 +1,1 @@
+"""Production-пакет приложения PriceWatch."""

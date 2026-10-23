@@ -1,0 +1,427 @@
+[
+  {
+    "requested_url": "https://www.mediamarkt.es/es/product/_apple-iphone-16-negro-128-gb-5g-61-oled-super-retina-xdr-chip-a18-bionic-ios-1582150.html",
+    "final_url": "https://www.mediamarkt.es/es/product/_apple-iphone-16-negro-128-gb-5g-61-oled-super-retina-xdr-chip-a18-bionic-ios-1582150.html",
+    "http_status": 403,
+    "fetch_method": "REQUESTS",
+    "fetch_status": "BLOCKED",
+    "error": "HTTP 403",
+    "elapsed_time_ms": 78,
+    "html_size": 0,
+    "domain": "www.mediamarkt.es",
+    "parse_status": "NOT_RUN",
+    "title": null,
+    "price": null,
+    "old_price": null,
+    "currency": null,
+    "availability": null,
+    "seller": null,
+    "sku": null,
+    "extraction_method": null,
+    "confidence": "LOW",
+    "confidence_score": 0.0,
+    "parse_error": "HTTP 403",
+    "diagnostics": {
+      "robots_note": "robots.txt unavailable (403); proceeding"
+    }
+  },
+  {
+    "requested_url": "https://www.mediamarkt.es/es/product/_apple-iphone-16-negro-128-gb-5g-61-oled-super-retina-xdr-chip-a18-bionic-ios-1582150.html",
+    "final_url": "https://www.mediamarkt.es/es/product/_apple-iphone-16-negro-128-gb-5g-61-oled-super-retina-xdr-chip-a18-bionic-ios-1582150.html",
+    "http_status": 200,
+    "fetch_method": "PLAYWRIGHT",
+    "fetch_status": "SUCCESS",
+    "error": null,
+    "elapsed_time_ms": 6612,
+    "html_size": 1397462,
+    "domain": "www.mediamarkt.es",
+    "parse_status": "SUCCESS",
+    "title": "Apple iPhone 16, Negro, 128 GB, 5G, 6.1 \" OLED Super Retina XDR, Chip A18 Bionic, iOS",
+    "price": "829",
+    "old_price": null,
+    "currency": "EUR",
+    "availability": "InStock",
+    "seller": null,
+    "sku": "1582150",
+    "extraction_method": "JSON_LD",
+    "confidence": "MEDIUM",
+    "confidence_score": 0.78,
+    "parse_error": null,
+    "diagnostics": {
+      "jsonld_types": {
+        "BuyAction": 1,
+        "ProductGroup": 1,
+        "Brand": 1,
+        "AggregateRating": 1,
+        "Review": 8,
+        "Rating": 8,
+        "Person": 8,
+        "EnergyConsumptionDetails": 1,
+        "Offer": 14,
+        "OfferShippingDetails": 1,
+        "DefinedRegion": 1,
+        "Country": 8,
+        "MonetaryAmount": 1,
+        "ShippingDeliveryTime": 1,
+        "QuantitativeValue": 3,
+        "UnitPriceSpecification": 4,
+        "MemberProgramTier": 5,
+        "MerchantReturnPolicy": 1,
+        "Service": 5,
+        "OfferCatalog": 1,
+        "Product": 8,
+        "MemberProgram": 1,
+        "Language": 2,
+        "AdministrativeArea": 1,
+        "BreadcrumbList": 1,
+        "ListItem": 5
+      },
+      "jsonld_malformed_scripts": 0,
+      "jsonld_product_count": 8,
+      "jsonld_offer_count": 14,
+      "candidate_prices": [
+        {
+          "price": "829",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        },
+        {
+          "price": "829",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        },
+        {
+          "price": "829",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        },
+        {
+          "price": "829",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        },
+        {
+          "price": "829",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        },
+        {
+          "price": "639",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        },
+        {
+          "price": "1099",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        },
+        {
+          "price": "899",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        }
+      ],
+      "conflicting_price_values": 4,
+      "robots_note": "robots.txt unavailable (403); proceeding"
+    }
+  },
+  {
+    "requested_url": "https://www.elcorteingles.es/electronica/A52957672-0195949822438-pr-apple-iphone-16-movil-libre-azul-ultramar-128-gb/",
+    "final_url": "https://www.elcorteingles.es/electronica/A52957672-0195949822438-pr-apple-iphone-16-movil-libre-azul-ultramar-128-gb/",
+    "http_status": 403,
+    "fetch_method": "REQUESTS",
+    "fetch_status": "BLOCKED",
+    "error": "HTTP 403",
+    "elapsed_time_ms": 83,
+    "html_size": 0,
+    "domain": "www.elcorteingles.es",
+    "parse_status": "NOT_RUN",
+    "title": null,
+    "price": null,
+    "old_price": null,
+    "currency": null,
+    "availability": null,
+    "seller": null,
+    "sku": null,
+    "extraction_method": null,
+    "confidence": "LOW",
+    "confidence_score": 0.0,
+    "parse_error": "HTTP 403",
+    "diagnostics": {
+      "robots_note": "robots.txt unavailable (403); proceeding"
+    }
+  },
+  {
+    "requested_url": "https://www.elcorteingles.es/electronica/A52957672-0195949822438-pr-apple-iphone-16-movil-libre-azul-ultramar-128-gb/",
+    "final_url": "https://www.elcorteingles.es/electronica/A52957672-0195949822438-pr-apple-iphone-16-movil-libre-azul-ultramar-128-gb/",
+    "http_status": 403,
+    "fetch_method": "PLAYWRIGHT",
+    "fetch_status": "BLOCKED",
+    "error": "HTTP 403",
+    "elapsed_time_ms": 1639,
+    "html_size": 0,
+    "domain": "www.elcorteingles.es",
+    "parse_status": "NOT_RUN",
+    "title": null,
+    "price": null,
+    "old_price": null,
+    "currency": null,
+    "availability": null,
+    "seller": null,
+    "sku": null,
+    "extraction_method": null,
+    "confidence": "LOW",
+    "confidence_score": 0.0,
+    "parse_error": "HTTP 403",
+    "diagnostics": {
+      "robots_note": "robots.txt unavailable (403); proceeding"
+    }
+  },
+  {
+    "requested_url": "https://www.decathlon.es/es/p/reloj-inteligente-garmin-forerunner-55-negro-gps/341619/c1m9028440",
+    "final_url": "https://www.decathlon.es/es/p/reloj-inteligente-garmin-forerunner-55-negro-gps/341619/c1m9028440",
+    "http_status": 200,
+    "fetch_method": "REQUESTS",
+    "fetch_status": "SUCCESS",
+    "error": null,
+    "elapsed_time_ms": 785,
+    "html_size": 635357,
+    "domain": "www.decathlon.es",
+    "parse_status": "AMBIGUOUS",
+    "title": "Reloj Inteligente Garmin Forerunner 55 Negro GPS | Decathlon",
+    "price": "154.99",
+    "old_price": null,
+    "currency": "EUR",
+    "availability": null,
+    "seller": null,
+    "sku": null,
+    "extraction_method": "DOM_HEURISTIC",
+    "confidence": "LOW",
+    "confidence_score": 0.42,
+    "parse_error": null,
+    "diagnostics": {
+      "jsonld_types": {
+        "ProductGroup": 1,
+        "Brand": 1,
+        "AggregateRating": 1,
+        "Product": 1,
+        "Offer": 1,
+        "UnitPriceSpecification": 1,
+        "BreadcrumbList": 1,
+        "ListItem": 6
+      },
+      "jsonld_malformed_scripts": 0,
+      "jsonld_product_count": 1,
+      "jsonld_offer_count": 1,
+      "candidate_prices": [
+        {
+          "price": "154.99",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "Precio actual {{currentPrice}} 154,99 €"
+        },
+        {
+          "price": "154.99",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "Precio actual {{currentPrice}} 154,99 €"
+        },
+        {
+          "price": "154.99",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "Precio actual {{currentPrice}} 154,99 €"
+        },
+        {
+          "price": "3.99",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "Precio actual {{currentPrice}} 3,99 € 1,33 €/unidad"
+        },
+        {
+          "price": "3.99",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "Precio actual {{currentPrice}} 3,99 € 1,33 €/unidad"
+        },
+        {
+          "price": "3.99",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "Precio actual {{currentPrice}} 3,99 €"
+        },
+        {
+          "price": "1.33",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "1,33 €/unidad"
+        },
+        {
+          "price": "154.99",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "Precio actual {{currentPrice}} 154,99 €"
+        },
+        {
+          "price": "154.99",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "Precio actual {{currentPrice}} 154,99 €"
+        },
+        {
+          "price": "154.99",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "Precio actual {{currentPrice}} 154,99 €"
+        },
+        {
+          "price": "158.98",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "Total Precio actual {{currentPrice}} 158,98 €"
+        },
+        {
+          "price": "158.98",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "Total Precio actual {{currentPrice}} 158,98 €"
+        },
+        {
+          "price": "158.98",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "Precio actual {{currentPrice}} 158,98 €"
+        }
+      ],
+      "microdata_found": false,
+      "dom_unique_price_count": 4,
+      "conflicting_price_values": 4,
+      "robots_note": null
+    }
+  },
+  {
+    "requested_url": "https://www.decathlon.es/es/p/reloj-inteligente-garmin-forerunner-55-negro-gps/341619/c1m9028440",
+    "final_url": "https://www.decathlon.es/es/p/reloj-inteligente-garmin-forerunner-55-negro-gps/341619/c1m9028440",
+    "http_status": 403,
+    "fetch_method": "PLAYWRIGHT",
+    "fetch_status": "BLOCKED",
+    "error": "HTTP 403",
+    "elapsed_time_ms": 4638,
+    "html_size": 0,
+    "domain": "www.decathlon.es",
+    "parse_status": "NOT_RUN",
+    "title": null,
+    "price": null,
+    "old_price": null,
+    "currency": null,
+    "availability": null,
+    "seller": null,
+    "sku": null,
+    "extraction_method": null,
+    "confidence": "LOW",
+    "confidence_score": 0.0,
+    "parse_error": "HTTP 403",
+    "diagnostics": {
+      "robots_note": null
+    }
+  },
+  {
+    "requested_url": "https://www.pccomponentes.com/logitech-mx-master-3s-performance-raton-inalambrico-funciona-sobre-cristal-clics-silenciosos-usb-c",
+    "final_url": "https://www.pccomponentes.com/logitech-mx-master-3s-performance-raton-inalambrico-funciona-sobre-cristal-clics-silenciosos-usb-c",
+    "http_status": 200,
+    "fetch_method": "REQUESTS",
+    "fetch_status": "SUCCESS",
+    "error": null,
+    "elapsed_time_ms": 715,
+    "html_size": 1181729,
+    "domain": "www.pccomponentes.com",
+    "parse_status": "SUCCESS",
+    "title": "Logitech MX Master 3S Performance Ratón Inalámbrico 8000 DPI Blanco",
+    "price": "100",
+    "old_price": null,
+    "currency": "EUR",
+    "availability": "InStock",
+    "seller": null,
+    "sku": "10347977",
+    "extraction_method": "JSON_LD",
+    "confidence": "HIGH",
+    "confidence_score": 0.96,
+    "parse_error": null,
+    "diagnostics": {
+      "jsonld_types": {
+        "BreadcrumbList": 1,
+        "ListItem": 43,
+        "product": 1,
+        "AggregateOffer": 1,
+        "Offer": 2,
+        "Organization": 2,
+        "OfferShippingDetails": 2,
+        "MonetaryAmount": 2,
+        "DefinedRegion": 2,
+        "PostalCodeRangeSpecification": 2,
+        "ShippingDeliveryTime": 2,
+        "QuantitativeValue": 4,
+        "OpeningHoursSpecification": 2,
+        "MerchantReturnPolicy": 2,
+        "AggregateRating": 2,
+        "Review": 30,
+        "Person": 88,
+        "Rating": 30,
+        "ItemList": 40,
+        "Comment": 40,
+        "ImageObject": 58,
+        "Brand": 3,
+        "ProductGroup": 2,
+        "PropertyValue": 3,
+        "Product": 1
+      },
+      "jsonld_malformed_scripts": 0,
+      "jsonld_product_count": 1,
+      "jsonld_offer_count": 3,
+      "candidate_prices": [
+        {
+          "price": "100",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        }
+      ],
+      "conflicting_price_values": 1,
+      "robots_note": null
+    }
+  },
+  {
+    "requested_url": "https://www.pccomponentes.com/logitech-mx-master-3s-performance-raton-inalambrico-funciona-sobre-cristal-clics-silenciosos-usb-c",
+    "final_url": "https://www.pccomponentes.com/logitech-mx-master-3s-performance-raton-inalambrico-funciona-sobre-cristal-clics-silenciosos-usb-c",
+    "http_status": 403,
+    "fetch_method": "PLAYWRIGHT",
+    "fetch_status": "BLOCKED",
+    "error": "HTTP 403",
+    "elapsed_time_ms": 4619,
+    "html_size": 0,
+    "domain": "www.pccomponentes.com",
+    "parse_status": "NOT_RUN",
+    "title": null,
+    "price": null,
+    "old_price": null,
+    "currency": null,
+    "availability": null,
+    "seller": null,
+    "sku": null,
+    "extraction_method": null,
+    "confidence": "LOW",
+    "confidence_score": 0.0,
+    "parse_error": "HTTP 403",
+    "diagnostics": {
+      "robots_note": null
+    }
+  }
+]

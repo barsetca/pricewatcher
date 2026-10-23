@@ -1,0 +1,5 @@
+product_name,store,url,current_price,currency,last_checked,status
+PriceWatch test offer one,,https://example.com/m8-valid-one,,,2026-10-19T20:55:25+00:00,PENDING
+PriceWatch test offer two,,https://example.com/m8-valid-two,,,2026-10-19T20:55:26+00:00,PENDING
+Valid manual offer,,https://example.com/m8-mixed-valid,,,2026-10-19T21:07:31+00:00,PENDING
+"Телефон ""Pro"", синий специальная серия",,https://example.com/m8-unicode,,,2026-10-19T21:25:48+00:00,PENDING

@@ -1,0 +1,10 @@
+.git
+.env
+.pytest_cache
+__pycache__
+*.py[cod]
+data
+research
+tests
+history
+docs

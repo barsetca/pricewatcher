@@ -1,0 +1,46 @@
+services:
+  pricewatch:
+    build: .
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      PRICEWATCH_DATABASE_PATH: /data/pricewatch.db
+    volumes:
+      - pricewatch-data-local:/data
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+    restart: unless-stopped
+    # Runtime располагает общим shutdown budget 30 секунд; Docker не должен
+    # преждевременно заменить SIGTERM на SIGKILL.
+    stop_grace_period: 35s
+    read_only: true
+    tmpfs:
+      - /tmp:rw,noexec,nosuid,size=16m
+    cap_drop:
+      - ALL
+    pids_limit: 100
+    mem_limit: 256m
+    cpus: 0.50
+    networks:
+      - pricewatch_egress
+
+volumes:
+  pricewatch-data-local:
+
+networks:
+  pricewatch_egress:
+    name: pricewatch_egress
+    driver: bridge
+    enable_ipv6: false
+    driver_opts:
+      # Фиксированное имя позволяет nftables ограничить именно этот bridge,
+      # а не весь Docker-трафик хоста.
+      com.docker.network.bridge.name: pw-egress0
+    ipam:
+      config:
+        - subnet: 172.30.0.0/24
+          gateway: 172.30.0.1

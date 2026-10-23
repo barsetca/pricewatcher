@@ -1,0 +1,597 @@
+[
+  {
+    "url": "https://www.decathlon.es/es/p/reloj-inteligente-garmin-forerunner-55-negro-gps/341619/c1m9028440",
+    "final_url": "https://www.decathlon.es/es/p/reloj-inteligente-garmin-forerunner-55-negro-gps/341619/c1m9028440",
+    "domain": "www.decathlon.es",
+    "http_status": 200,
+    "title": "Reloj Inteligente Garmin Forerunner 55 Negro GPS | Decathlon",
+    "price": "154.99",
+    "old_price": null,
+    "currency": "EUR",
+    "availability": null,
+    "seller": null,
+    "sku": null,
+    "extraction_method": "DOM_HEURISTIC",
+    "confidence": "LOW",
+    "confidence_score": 0.42,
+    "status": "AMBIGUOUS",
+    "error": null,
+    "diagnostics": {
+      "robots_note": null,
+      "jsonld_types": {
+        "ProductGroup": 1,
+        "Brand": 1,
+        "AggregateRating": 1,
+        "Product": 1,
+        "Offer": 1,
+        "UnitPriceSpecification": 1,
+        "BreadcrumbList": 1,
+        "ListItem": 6
+      },
+      "jsonld_malformed_scripts": 0,
+      "jsonld_product_count": 1,
+      "jsonld_offer_count": 1,
+      "candidate_prices": [
+        {
+          "price": "154.99",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "Precio actual {{currentPrice}} 154,99 €"
+        },
+        {
+          "price": "154.99",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "Precio actual {{currentPrice}} 154,99 €"
+        },
+        {
+          "price": "154.99",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "Precio actual {{currentPrice}} 154,99 €"
+        },
+        {
+          "price": "3.99",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "Precio actual {{currentPrice}} 3,99 € 1,33 €/unidad"
+        },
+        {
+          "price": "3.99",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "Precio actual {{currentPrice}} 3,99 € 1,33 €/unidad"
+        },
+        {
+          "price": "3.99",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "Precio actual {{currentPrice}} 3,99 €"
+        },
+        {
+          "price": "1.33",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "1,33 €/unidad"
+        },
+        {
+          "price": "154.99",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "Precio actual {{currentPrice}} 154,99 €"
+        },
+        {
+          "price": "154.99",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "Precio actual {{currentPrice}} 154,99 €"
+        },
+        {
+          "price": "154.99",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "Precio actual {{currentPrice}} 154,99 €"
+        },
+        {
+          "price": "158.98",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "Total Precio actual {{currentPrice}} 158,98 €"
+        },
+        {
+          "price": "158.98",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "Total Precio actual {{currentPrice}} 158,98 €"
+        },
+        {
+          "price": "158.98",
+          "currency": "EUR",
+          "source": "DOM_HEURISTIC",
+          "context": "Precio actual {{currentPrice}} 158,98 €"
+        }
+      ],
+      "microdata_found": false,
+      "dom_unique_price_count": 4,
+      "conflicting_price_values": 4
+    }
+  },
+  {
+    "url": "https://www.mediamarkt.es/es/product/_apple-iphone-16-negro-128-gb-5g-61-oled-super-retina-xdr-chip-a18-bionic-ios-1582150.html",
+    "final_url": "https://www.mediamarkt.es/es/product/_apple-iphone-16-negro-128-gb-5g-61-oled-super-retina-xdr-chip-a18-bionic-ios-1582150.html",
+    "domain": "www.mediamarkt.es",
+    "http_status": 403,
+    "title": null,
+    "price": null,
+    "old_price": null,
+    "currency": null,
+    "availability": null,
+    "seller": null,
+    "sku": null,
+    "extraction_method": null,
+    "confidence": "LOW",
+    "confidence_score": 0.0,
+    "status": "BLOCKED",
+    "error": "HTTP 403; access may be blocked",
+    "diagnostics": {
+      "robots_note": "robots.txt unavailable (403); proceeding"
+    }
+  },
+  {
+    "url": "https://www.mediamarkt.es/es/product/_apple-iphone-16-azul-ultramar-128-gb-5g-61-oled-super-retina-xdr-chip-a18-bionic-ios-1582153.html",
+    "final_url": "https://www.mediamarkt.es/es/product/_apple-iphone-16-azul-ultramar-128-gb-5g-61-oled-super-retina-xdr-chip-a18-bionic-ios-1582153.html",
+    "domain": "www.mediamarkt.es",
+    "http_status": 403,
+    "title": null,
+    "price": null,
+    "old_price": null,
+    "currency": null,
+    "availability": null,
+    "seller": null,
+    "sku": null,
+    "extraction_method": null,
+    "confidence": "LOW",
+    "confidence_score": 0.0,
+    "status": "BLOCKED",
+    "error": "HTTP 403; access may be blocked",
+    "diagnostics": {
+      "robots_note": "robots.txt unavailable (403); proceeding"
+    }
+  },
+  {
+    "url": "https://www.mediamarkt.es/es/product/_samsung-galaxy-s25-sm-s931bds-negro-movil-android-256-gb-12-gb-ram-62-dynamic-amoled-2x-gorilla-glass-victus-2-120-hz-qualcomm-snapdragon-8-elite-4000-mah-158519375.html",
+    "final_url": "https://www.mediamarkt.es/es/product/_samsung-galaxy-s25-sm-s931bds-negro-movil-android-256-gb-12-gb-ram-62-dynamic-amoled-2x-gorilla-glass-victus-2-120-hz-qualcomm-snapdragon-8-elite-4000-mah-158519375.html",
+    "domain": "www.mediamarkt.es",
+    "http_status": 403,
+    "title": null,
+    "price": null,
+    "old_price": null,
+    "currency": null,
+    "availability": null,
+    "seller": null,
+    "sku": null,
+    "extraction_method": null,
+    "confidence": "LOW",
+    "confidence_score": 0.0,
+    "status": "BLOCKED",
+    "error": "HTTP 403; access may be blocked",
+    "diagnostics": {
+      "robots_note": "robots.txt unavailable (403); proceeding"
+    }
+  },
+  {
+    "url": "https://www.mediamarkt.es/es/product/_reacondicionado-seminuevo-muy-bueno-movil-samsung-galaxy-s25-navy-256-gb-12-gb-ram-62-fhd-con-ia-snapdragon-8-4000-mah-android-15-1605491.html",
+    "final_url": "https://www.mediamarkt.es/es/product/_reacondicionado-seminuevo-muy-bueno-movil-samsung-galaxy-s25-navy-256-gb-12-gb-ram-62-fhd-con-ia-snapdragon-8-4000-mah-android-15-1605491.html",
+    "domain": "www.mediamarkt.es",
+    "http_status": 403,
+    "title": null,
+    "price": null,
+    "old_price": null,
+    "currency": null,
+    "availability": null,
+    "seller": null,
+    "sku": null,
+    "extraction_method": null,
+    "confidence": "LOW",
+    "confidence_score": 0.0,
+    "status": "BLOCKED",
+    "error": "HTTP 403; access may be blocked",
+    "diagnostics": {
+      "robots_note": "robots.txt unavailable (403); proceeding"
+    }
+  },
+  {
+    "url": "https://www.pccomponentes.com/samsung-galaxy-s25-5g-12gb-256gb-6-2-menta",
+    "final_url": "https://www.pccomponentes.com/samsung-galaxy-s25-5g-12gb-256gb-6-2-menta",
+    "domain": "www.pccomponentes.com",
+    "http_status": 200,
+    "title": "Samsung Galaxy S25 5G 12GB 256GB 6.2\" Azul",
+    "price": "819",
+    "old_price": null,
+    "currency": "EUR",
+    "availability": "InStock",
+    "seller": null,
+    "sku": "10866731",
+    "extraction_method": "JSON_LD",
+    "confidence": "MEDIUM",
+    "confidence_score": 0.78,
+    "status": "SUCCESS",
+    "error": null,
+    "diagnostics": {
+      "robots_note": null,
+      "jsonld_types": {
+        "BreadcrumbList": 1,
+        "ListItem": 53,
+        "product": 1,
+        "Offer": 7,
+        "Organization": 7,
+        "OfferShippingDetails": 7,
+        "MonetaryAmount": 7,
+        "DefinedRegion": 7,
+        "PostalCodeRangeSpecification": 7,
+        "ShippingDeliveryTime": 7,
+        "QuantitativeValue": 14,
+        "OpeningHoursSpecification": 7,
+        "MerchantReturnPolicy": 7,
+        "AggregateRating": 2,
+        "Review": 30,
+        "Person": 34,
+        "Rating": 30,
+        "ItemList": 50,
+        "Comment": 50,
+        "ImageObject": 4,
+        "Brand": 8,
+        "EnergyConsumptionDetails": 1,
+        "ProductGroup": 7,
+        "PropertyValue": 11,
+        "Product": 6
+      },
+      "jsonld_malformed_scripts": 0,
+      "jsonld_product_count": 6,
+      "jsonld_offer_count": 7,
+      "candidate_prices": [
+        {
+          "price": "819",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        },
+        {
+          "price": "844.97",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        },
+        {
+          "price": "769",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        },
+        {
+          "price": "945.5",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        },
+        {
+          "price": "680.85",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        },
+        {
+          "price": "831",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        }
+      ],
+      "conflicting_price_values": 6
+    }
+  },
+  {
+    "url": "https://www.pccomponentes.com/samsung-galaxy-s25-5g-12gb-256gb-6-2-gris",
+    "final_url": "https://www.pccomponentes.com/samsung-galaxy-s25-5g-12gb-256gb-6-2-gris",
+    "domain": "www.pccomponentes.com",
+    "http_status": 200,
+    "title": "Samsung Galaxy S25 5G 12GB 256GB 6.2\" Azul",
+    "price": "819",
+    "old_price": null,
+    "currency": "EUR",
+    "availability": "InStock",
+    "seller": null,
+    "sku": "10866731",
+    "extraction_method": "JSON_LD",
+    "confidence": "MEDIUM",
+    "confidence_score": 0.78,
+    "status": "SUCCESS",
+    "error": null,
+    "diagnostics": {
+      "robots_note": null,
+      "jsonld_types": {
+        "BreadcrumbList": 1,
+        "ListItem": 53,
+        "product": 1,
+        "Offer": 7,
+        "Organization": 7,
+        "OfferShippingDetails": 7,
+        "MonetaryAmount": 7,
+        "DefinedRegion": 7,
+        "PostalCodeRangeSpecification": 7,
+        "ShippingDeliveryTime": 7,
+        "QuantitativeValue": 14,
+        "OpeningHoursSpecification": 7,
+        "MerchantReturnPolicy": 7,
+        "AggregateRating": 2,
+        "Review": 30,
+        "Person": 34,
+        "Rating": 30,
+        "ItemList": 50,
+        "Comment": 50,
+        "ImageObject": 4,
+        "Brand": 8,
+        "EnergyConsumptionDetails": 1,
+        "ProductGroup": 7,
+        "PropertyValue": 11,
+        "Product": 6
+      },
+      "jsonld_malformed_scripts": 0,
+      "jsonld_product_count": 6,
+      "jsonld_offer_count": 7,
+      "candidate_prices": [
+        {
+          "price": "819",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        },
+        {
+          "price": "844.97",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        },
+        {
+          "price": "819",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        },
+        {
+          "price": "945.5",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        },
+        {
+          "price": "574",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        },
+        {
+          "price": "949",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        }
+      ],
+      "conflicting_price_values": 5
+    }
+  },
+  {
+    "url": "https://www.pccomponentes.com/samsung-galaxy-s25-smartphone-con-ia-256gb-bateria-4000mah-azul-version-importada-eu",
+    "final_url": "https://www.pccomponentes.com/samsung-galaxy-s25-smartphone-con-ia-256gb-bateria-4000mah-azul-version-importada-eu",
+    "domain": "www.pccomponentes.com",
+    "http_status": 200,
+    "title": "Samsung Galaxy S25 Smartphone con IA 256GB Batería 4.000mAh Azul Marino Versión Internacional",
+    "price": "678",
+    "old_price": null,
+    "currency": "EUR",
+    "availability": "InStock",
+    "seller": null,
+    "sku": "10868762",
+    "extraction_method": "JSON_LD",
+    "confidence": "MEDIUM",
+    "confidence_score": 0.78,
+    "status": "SUCCESS",
+    "error": null,
+    "diagnostics": {
+      "robots_note": null,
+      "jsonld_types": {
+        "BreadcrumbList": 1,
+        "ListItem": 53,
+        "product": 1,
+        "AggregateOffer": 1,
+        "Offer": 7,
+        "Organization": 7,
+        "OfferShippingDetails": 7,
+        "MonetaryAmount": 7,
+        "DefinedRegion": 7,
+        "PostalCodeRangeSpecification": 7,
+        "ShippingDeliveryTime": 7,
+        "QuantitativeValue": 14,
+        "OpeningHoursSpecification": 7,
+        "MerchantReturnPolicy": 7,
+        "AggregateRating": 2,
+        "Review": 30,
+        "Person": 34,
+        "Rating": 30,
+        "ItemList": 50,
+        "Comment": 50,
+        "ImageObject": 4,
+        "Brand": 8,
+        "EnergyConsumptionDetails": 1,
+        "ProductGroup": 7,
+        "PropertyValue": 11,
+        "Product": 6
+      },
+      "jsonld_malformed_scripts": 0,
+      "jsonld_product_count": 6,
+      "jsonld_offer_count": 8,
+      "candidate_prices": [
+        {
+          "price": "678",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        },
+        {
+          "price": "789",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        },
+        {
+          "price": "657.15",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        },
+        {
+          "price": "612",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        },
+        {
+          "price": "930.98",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        },
+        {
+          "price": "819",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        }
+      ],
+      "conflicting_price_values": 6
+    }
+  },
+  {
+    "url": "https://www.pccomponentes.com/logitech-mx-master-3s-performance-raton-inalambrico-funciona-sobre-cristal-clics-silenciosos-usb-c",
+    "final_url": "https://www.pccomponentes.com/logitech-mx-master-3s-performance-raton-inalambrico-funciona-sobre-cristal-clics-silenciosos-usb-c",
+    "domain": "www.pccomponentes.com",
+    "http_status": 200,
+    "title": "Logitech MX Master 3S Performance Ratón Inalámbrico 8000 DPI Blanco",
+    "price": "100",
+    "old_price": null,
+    "currency": "EUR",
+    "availability": "InStock",
+    "seller": null,
+    "sku": "10347977",
+    "extraction_method": "JSON_LD",
+    "confidence": "HIGH",
+    "confidence_score": 0.96,
+    "status": "SUCCESS",
+    "error": null,
+    "diagnostics": {
+      "robots_note": null,
+      "jsonld_types": {
+        "BreadcrumbList": 1,
+        "ListItem": 43,
+        "product": 1,
+        "AggregateOffer": 1,
+        "Offer": 2,
+        "Organization": 2,
+        "OfferShippingDetails": 2,
+        "MonetaryAmount": 2,
+        "DefinedRegion": 2,
+        "PostalCodeRangeSpecification": 2,
+        "ShippingDeliveryTime": 2,
+        "QuantitativeValue": 4,
+        "OpeningHoursSpecification": 2,
+        "MerchantReturnPolicy": 2,
+        "AggregateRating": 2,
+        "Review": 30,
+        "Person": 88,
+        "Rating": 30,
+        "ItemList": 40,
+        "Comment": 40,
+        "ImageObject": 58,
+        "Brand": 3,
+        "ProductGroup": 2,
+        "PropertyValue": 3,
+        "Product": 1
+      },
+      "jsonld_malformed_scripts": 0,
+      "jsonld_product_count": 1,
+      "jsonld_offer_count": 3,
+      "candidate_prices": [
+        {
+          "price": "100",
+          "currency": "EUR",
+          "source": "JSON_LD",
+          "context": ""
+        }
+      ],
+      "conflicting_price_values": 1
+    }
+  },
+  {
+    "url": "https://www.elcorteingles.es/electronica/A52957672-0195949822438-pr-apple-iphone-16-movil-libre-azul-ultramar-128-gb/",
+    "final_url": "https://www.elcorteingles.es/electronica/A52957672-0195949822438-pr-apple-iphone-16-movil-libre-azul-ultramar-128-gb/",
+    "domain": "www.elcorteingles.es",
+    "http_status": 403,
+    "title": null,
+    "price": null,
+    "old_price": null,
+    "currency": null,
+    "availability": null,
+    "seller": null,
+    "sku": null,
+    "extraction_method": null,
+    "confidence": "LOW",
+    "confidence_score": 0.0,
+    "status": "BLOCKED",
+    "error": "HTTP 403; access may be blocked",
+    "diagnostics": {
+      "robots_note": "robots.txt unavailable (403); proceeding"
+    }
+  },
+  {
+    "url": "https://www.elcorteingles.es/electronica/A55532704-2401957020611-pr-apple-iphone-16-movil-libre-reacondicionado-grado-a-negro-128-gb/",
+    "final_url": "https://www.elcorteingles.es/electronica/A55532704-2401957020611-pr-apple-iphone-16-movil-libre-reacondicionado-grado-a-negro-128-gb/",
+    "domain": "www.elcorteingles.es",
+    "http_status": 403,
+    "title": null,
+    "price": null,
+    "old_price": null,
+    "currency": null,
+    "availability": null,
+    "seller": null,
+    "sku": null,
+    "extraction_method": null,
+    "confidence": "LOW",
+    "confidence_score": 0.0,
+    "status": "BLOCKED",
+    "error": "HTTP 403; access may be blocked",
+    "diagnostics": {
+      "robots_note": "robots.txt unavailable (403); proceeding"
+    }
+  },
+  {
+    "url": "https://www.elcorteingles.es/electronica/A55857774-2102660094134-pr-apple-airpods-pro-2-generacion-auriculares-inalambricos-bluetooth-y-estuche-de-carga-magsafe-usb-c-reacondicionado-grado-a-blanco/",
+    "final_url": "https://www.elcorteingles.es/electronica/A55857774-2102660094134-pr-apple-airpods-pro-2-generacion-auriculares-inalambricos-bluetooth-y-estuche-de-carga-magsafe-usb-c-reacondicionado-grado-a-blanco/",
+    "domain": "www.elcorteingles.es",
+    "http_status": 403,
+    "title": null,
+    "price": null,
+    "old_price": null,
+    "currency": null,
+    "availability": null,
+    "seller": null,
+    "sku": null,
+    "extraction_method": null,
+    "confidence": "LOW",
+    "confidence_score": 0.0,
+    "status": "BLOCKED",
+    "error": "HTTP 403; access may be blocked",
+    "diagnostics": {
+      "robots_note": "robots.txt unavailable (403); proceeding"
+    }
+  }
+]
